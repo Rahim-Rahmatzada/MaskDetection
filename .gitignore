@@ -1,0 +1,7 @@
+cv_env/
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb_checkpoints/
+requirements/*.txt
+CV2024_CW_Dataset/
