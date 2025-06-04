@@ -75,8 +75,6 @@ This project implements and compares multiple machine learning models for automa
 
 ##  Mask Detection in the Wild
 
-# Mask Detection in the Wild
-
 The `MaskDetection(path)` function performs qualitative evaluation of the best-performing model on new, unseen images.
 
 ## Function Capabilities
